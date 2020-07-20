@@ -55,6 +55,6 @@ if __name__ == '__main__':
     ui=Ui_Form()
     ui.setupUi(widget)
     widget.show()
-    print("run ok")
+    print("run ok  333")
     sys.exit(app.exec_())
 
